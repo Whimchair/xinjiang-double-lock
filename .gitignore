@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# PyInstaller
+*.spec
+
+# 模型文件（可选，如果想保留可以注释掉）
+# models/
+
+# 日志
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
